@@ -96,6 +96,7 @@ In this project, the goal was to predict the risk of heart attack using machine 
 
 ---
 
-**Project Repository and Dataset Link:** \[Insert Kaggle dataset and notebook link here]
+**Project Repository and Dataset Link:** https://www.kaggle.com/datasets/alicvdr/heart-csv
 
 *End of README.*
+
